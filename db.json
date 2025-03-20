@@ -1,0 +1,156 @@
+{
+  "pointHistory": [
+    {
+      "id": "1",
+      "user": "John Doe",
+      "points": "+500",
+      "time": "2025-03-18 14:30"
+    },
+    {
+      "id": "2",
+      "user": "John Doe",
+      "points": "-200",
+      "time": "2025-03-18 12:15"
+    },
+    {
+      "id": "3",
+      "user": "John Doe",
+      "points": "+1000",
+      "time": "2025-03-18 10:00"
+    }
+  ],
+  "activitiesPoints": [
+    {
+      "id": "1",
+      "user": "John Doe",
+      "activity": "Task Completed",
+      "points": 50,
+      "type": "task"
+    },
+    {
+      "id": "2",
+      "user": "John Doe",
+      "activity": "Daily Login",
+      "points": 10,
+      "type": "login"
+    },
+    {
+      "id": "3",
+      "user": "John Doe",
+      "activity": "Referral Bonus",
+      "points": 100,
+      "type": "referral"
+    },
+    {
+      "id": "4",
+      "user": "John Doe",
+      "activity": "Content Uploaded",
+      "points": 30,
+      "type": "content"
+    }
+  ],
+  "rewards": [
+    {
+      "id": "1",
+      "user": "John Doe",
+      "reward": "Amazon Gift Card",
+      "pointsRequired": 1000,
+      "status": "Available",
+      "image": "https://usa.inquirer.net/files/2019/12/where-to-buy-amazon-gift-cards.jpg"
+    },
+    {
+      "id": "2",
+      "user": "John Doe",
+      "reward": "Discount Coupon",
+      "pointsRequired": 500,
+      "status": "Claimed",
+      "image": "https://as2.ftcdn.net/v2/jpg/03/29/40/41/1000_F_329404111_usfIQTAJBwiDEIdKek1OFHF7JWIvhgcS.jpg"
+    },
+    {
+      "id": "3",
+      "user": "John Doe",
+      "reward": "Free Subscription",
+      "pointsRequired": 2000,
+      "status": "Available",
+      "image": "https://static.vecteezy.com/system/resources/previews/006/101/593/non_2x/subscribe-neon-banner-free-photo.jpg"
+    },
+    {
+      "id": "1742408532524",
+      "user": "John Doe",
+      "reward": "Flipkart coupons",
+      "pointsRequired": 200,
+      "status": "Available",
+      "image": "https://storiesflistgv2.blob.core.windows.net/stories/2018/10/flipkartegv_mainbanner.jpg"
+    },
+    {
+      "id": "1742408804936",
+      "user": "John Doe",
+      "reward": "Netflix coupon",
+      "pointsRequired": 500,
+      "status": "Available",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcjEB2JNAGJvCvdHgBQXZIr-3yon57qICVOQ&s"
+    },
+    {
+      "id": "1742449917374",
+      "user": "John Doe",
+      "reward": "Spotify coupons",
+      "pointsRequired": 1000,
+      "status": "Available",
+      "image": "https://ifuzefvpmposztzwzxmh.supabase.co/storage/v1/object/public/coupons/spotify-logo-couponlap-coupons-offers.png1698397398247"
+    }
+  ],
+  "leaderboard": [
+    {
+      "rank": 4,
+      "user": "John Doe",
+      "points": 3200,
+      "id": "1e24"
+    },
+    {
+      "rank": 5,
+      "user": "Emma Wilson",
+      "points": 2800,
+      "id": "2966"
+    }
+  ],
+  "monthlyStats": [
+    {
+      "name": "Jan",
+      "points": 1200,
+      "redeemed": 800,
+      "id": "7ec2"
+    },
+    {
+      "name": "Feb",
+      "points": 1800,
+      "redeemed": 1200,
+      "id": "7e17"
+    },
+    {
+      "name": "Mar",
+      "points": 2500,
+      "redeemed": 1700,
+      "id": "466e"
+    }
+  ],
+  "userCartData": [
+    {
+      "id": "1",
+      "userId": "1e24",
+      "items": [
+        {
+          "rewardId": "1",
+          "reward": "Amazon Gift Card",
+          "quantity": 1,
+          "pointsRequired": 1000
+        },
+        {
+          "rewardId": "2",
+          "reward": "Discount Coupon",
+          "quantity": 2,
+          "pointsRequired": 500
+        }
+      ]
+    }
+  ]
+}
